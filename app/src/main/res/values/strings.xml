@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Skripsi1</string>
+    <string name="bab1">Eksponen dan Logaritma</string>
+    <string name="bab2">Persamaan dan
+                        Pertidaksamaan Linier</string>
+    <string name="bab3">Sistem Persamaan dan
+                        Pertidaksamaan Linier</string>
+    <string name="bab4">Matriks</string>
+    <string name="bab5">Relasi dan Fungsi</string>
+    <string name="bab6">Barisan dan Deret</string>
+
+
+</resources>
